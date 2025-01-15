@@ -1,4 +1,4 @@
-# [CMI-PIU: Actigraphy data EDA](https://www.kaggle.com/code/antoninadolgorukova/cmi-piu-actigraphy-data-eda)
+# [CMI | Actigraphy data EDA](https://www.kaggle.com/code/antoninadolgorukova/cmi-piu-actigraphy-data-eda)
 
 This notebook explores working with ___actigraphy time series___ recordings to get an idea of the data at hand.
 * Investigate ___data quality___ (e.g., time gaps, non-wear periods, battery issues)
@@ -58,3 +58,7 @@ voted ensemble consisting of:
 * __CatBoostRegressor__ 
 
 * __ExtraTreesRegressor__
+* 
+
+# Honorable Mentions 🌟
+🔸 [__CMI | LSTM+VAE__](https://www.kaggle.com/code/kitsuha/lb-0-483-with-lstm-vae)
