@@ -16,7 +16,6 @@ __Target Variable (sii)__ is defined as:
 
 * 0: None (PCIAT-PCIAT_Total from 0 to 30)
 * 1: Mild (PCIAT-PCIAT_Total from 31 to 49)
-* 1：轻度（PCIAT-PCIAT_Total 从 31 到 49）
 * 2: Moderate (PCIAT-PCIAT_Total from 50 to 79)
 * 3: Severe (PCIAT-PCIAT_Total 80 and more)
 
