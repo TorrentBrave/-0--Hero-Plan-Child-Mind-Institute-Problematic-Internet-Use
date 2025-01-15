@@ -21,10 +21,10 @@ This notebook shows:
 voted ensemble consisting of:
 (improving the robustness)
 
-• LGBMRegressor
+* LGBMRegressor
 
-• Two XGBoost Regressors
+* Two XGBoost Regressors
 
-• CatBoostRegressor 
+* CatBoostRegressor 
 
-• ExtraTreesRegressor
+* ExtraTreesRegressor
