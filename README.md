@@ -2,8 +2,6 @@
 
 # [CMI | EDA which makes sense](https://www.kaggle.com/code/ambrosm/piu-eda-which-makes-sense#A-look-at-selected-other-features)
 
-This notebook shows:
-
 * a first analysis of the data
 
 * how to cross-validate a model
