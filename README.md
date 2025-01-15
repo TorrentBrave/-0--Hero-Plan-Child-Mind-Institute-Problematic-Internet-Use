@@ -51,7 +51,7 @@ Finally, another strategy involves predicting responses to each question of the 
 voted ensemble consisting of:
 (improving the robustness)
 
-* __LGBMRegressor__
+* __[LGBM](https://www.kaggle.com/code/mehakiftikhar/lightgbm-modeling-with-optuna-a-focus-on-internet#Model-Building)Regressor__
 
 * __Two__[__XGBoost__](https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning)__Regressors__
 
