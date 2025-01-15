@@ -25,7 +25,7 @@ This makes sii an ordinal categorical variable with four levels, where the order
 Type of Machine Learning Problem we can use with sii as a target:
 
 * Ordinal classification (ordinal logistic regression, models with custom ordinal loss functions)
-* [__Multiclass classification__](https://www.kaggle.com/code/tubotubo/starter-notebook-multi-target-prediction/notebook) treat sii as a nominal categorical variable without considering the order)
+* [__Multiclass classification__](https://www.kaggle.com/code/tubotubo/starter-notebook-multi-target-prediction/notebook) (treat sii as a nominal categorical variable without considering the order)
 * Regression (ignore the discrete nature of categories and treat sii as a continuous variable, then round prediction)
 * Custom (e.g. loss functions that penalize errors based on the distance between categories)
 
