@@ -21,7 +21,7 @@ voted ensemble consisting of:
 
 * __LGBMRegressor__
 
-* __Two XGBoost Regressors__
+* __Two__[__XGBoost__](https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning)__Regressors__
 
 * __CatBoostRegressor__ 
 
