@@ -4,13 +4,13 @@
 
 * a first analysis of the data
 
-* how to cross-validate a model
+* how to ___cross-validate___ a model
 
-* that regression models are better than classification models in this competition, and
+* that ___regression___ models are better than ___classification___ models in this competition, and
 
-* how to tune the thresholds for rounding the regression output.
+* how to ___tune the thresholds for rounding the regression output___.
 
-* The notebook uses polars DataFrames. If you are more fluent with pandas than with polars, this is an opportunity to get to know polars, which is often more efficient than pandas.
+* The notebook uses ___polars___ DataFrames. If you are more fluent with pandas than with polars, this is an opportunity to get to know polars, which is often more ___efficient than pandas___.
 
 # [CMI | Best Single Model](https://www.kaggle.com/code/abdmental01/cmi-best-single-model)
 
@@ -19,10 +19,10 @@
 voted ensemble consisting of:
 (improving the robustness)
 
-* LGBMRegressor
+* __LGBMRegressor__
 
-* Two XGBoost Regressors
+* __Two XGBoost Regressors__
 
-* CatBoostRegressor 
+* __CatBoostRegressor__ 
 
-* ExtraTreesRegressor
+* __ExtraTreesRegressor__
