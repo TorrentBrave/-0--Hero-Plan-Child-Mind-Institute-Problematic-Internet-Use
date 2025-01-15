@@ -62,3 +62,5 @@ voted ensemble consisting of:
 
 # Honorable Mentions 🌟
 🔸 [__CMI | LSTM+VAE__](https://www.kaggle.com/code/kitsuha/lb-0-483-with-lstm-vae)
+🔸 [__CMI | TabNet__](https://www.kaggle.com/code/ichigoe/lb0-494-with-tabnet#Final-Results-and-Performance-Metrics)
+🔸 [__CMI | Advanced Feature Engineering__](https://www.kaggle.com/code/chanpreetsingh07/advanced-feature-engineering-3b1b/notebook)
