@@ -8,3 +8,5 @@ voted ensemble consisting of:
 • CatBoostRegressor 
 
 • ExtraTreesRegressor
+
+[Features EDA](https://www.kaggle.com/code/antoninadolgorukova/cmi-piu-features-eda)
